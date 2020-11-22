@@ -1,0 +1,6 @@
+#!name=General iOS
+#!desc=Enable wifi-assist and network-framework on iOS.
+
+[General]
+wifi-assist = true
+network-framework = true

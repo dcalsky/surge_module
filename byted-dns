@@ -1,0 +1,14 @@
+#!name=Byted DNS
+#!desc=ByteDance 网络下内网解析走内网 DNS
+
+[Host]
+*pstatp.com = script:byted-dns
+*byted* = script:byted-dns
+*feishu.cn = script:byted-dns
+*toutiao.com = script:byted-dns
+*zjurl.cn = script:byted-dns
+*bcyimg.com = script:byted-dns
+*snssdk.com = script:byted-dns
+
+[Script]
+byted-dns = script-path=https://github.com/PureWhiteWu/surge_module/raw/master/byted-dns.js,script-update-interval=86400,type=dns
