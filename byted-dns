@@ -4,6 +4,7 @@
 [Host]
 *byted.o* = script:byted-dns
 *bytedance.n* = script:byted-dns
+*bytedance.c* = script:byted-dns
 
 [Script]
 byted-dns = script-path=https://github.com/PureWhiteWu/surge_module/raw/master/byted-dns.js,script-update-interval=86400,type=dns
