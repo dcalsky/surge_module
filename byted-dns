@@ -3,8 +3,18 @@
 
 [Host]
 *byted.o* = script:byted-dns
+*byted.a* = script:byted-dns
+*byted.d* = script:byted-dns
 *bytedance.n* = script:byted-dns
 *bytedance.c* = script:byted-dns
+*tiktokd.n* = script:byted-dns
+*byteoversea.n* = script:byted-dns
+*byteintl.n* = script:byted-dns
+*bytecdn.n* = script:byted-dns
+*bytegoofy.c* = script:byted-dns
+*snssdk.com = script:byted-dns
+*bytescm.com = script:byted-dns
+*feishucdn.com = script:byted-dns
 
 [Script]
 byted-dns = script-path=https://github.com/PureWhiteWu/surge_module/raw/master/byted-dns.js,script-update-interval=86400,type=dns
