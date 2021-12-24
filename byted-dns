@@ -8,6 +8,7 @@
 *bytedance.n* = script:byted-dns
 *bytedance.c* = script:byted-dns
 *tiktokd.n* = script:byted-dns
+*tiktokd.o* = script:byted-dns
 *byteoversea.n* = script:byted-dns
 *byteintl.n* = script:byted-dns
 *bytecdn.n* = script:byted-dns
