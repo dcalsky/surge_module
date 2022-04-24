@@ -19,6 +19,8 @@
 *bytedns.n* = script:byted-dns
 *tiktok-usts.n* = script:byted-dns
 *tiktokv.c* = script:byted-dns
+*bytetos.c* = script:byted-dns
+*byted-static.c* = script:byted-dns
 go = script:byted-dns
 rs = script:byted-dns
 py = script:byted-dns
