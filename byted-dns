@@ -26,4 +26,4 @@ rs = script:byted-dns
 py = script:byted-dns
 
 [Script]
-byted-dns = script-path=https://github.com/PureWhiteWu/surge_module/raw/master/byted-dns.js,script-update-interval=86400,type=dns
+byted-dns = script-path=https://github.com/dcalsky/surge_module/raw/master/byted-dns.js,script-update-interval=86400,type=dns
